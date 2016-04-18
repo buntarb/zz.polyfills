@@ -22,11 +22,15 @@
  */
 var idk = require( 'imazzine-developer-kit' );
 
+console.log( idk );
+
 /**
  * File tools.
  * @type {*}
  */
 var ft = idk.filetools;
+
+console.log( ft );
 
 /**
  * OS folder delimiter.
