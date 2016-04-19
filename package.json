@@ -1,6 +1,6 @@
 {
 	"name": "zz.polyfills",
-	"version": "20160419.0.3",
+	"version": "20160419.0.4",
 	"description": "Polyfills for imazzine-developer-lib.",
 	"author": {
 		"name": "Artem Lytvynov",
@@ -11,9 +11,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/buntarb/zz.polyfills.git"
-	},
-	"scripts": {
-		"install": "node install.js"
 	},
 	"dependencies": {
 
