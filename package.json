@@ -1,6 +1,6 @@
 {
 	"name": "zz.polyfills",
-	"version": "20160419.0.2",
+	"version": "20160419.0.3",
 	"description": "Polyfills for imazzine-developer-lib.",
 	"author": {
 		"name": "Artem Lytvynov",
