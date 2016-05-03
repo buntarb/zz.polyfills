@@ -1,13 +1,13 @@
 {
 	"name": "zz.polyfills",
-	"version": "20160420.0.0",
+	"version": "20160503.0.0",
 	"description": "Polyfills for imazzine-developer-lib.",
 	"author": {
 		"name": "Artem Lytvynov",
 		"email": "buntarb@gmail.com"
 	},
 	"license": "Apache-2.0",
-    "homepage": "http://imazzine.com/idl/zz/polyfills",
+    "homepage": "http://imazzine.com/idl/zz.polyfills",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/buntarb/zz.polyfills.git"
